@@ -1,0 +1,87 @@
+Burgers and Sandwiches
+Veg Burgers
+Veg Burger
+₹120.00
+Vegetarian
+Corn Spinach Burger
+₹135.00
+Vegetarian
+Veg Spicy Cheese Burger
+₹135.00
+Vegetarian
+Paneer Burger
+₹180.00
+Vegetarian
+Non Veg Burgers
+Spicy Chicken Burger
+₹150.00
+Chicken Burger
+₹135.00
+Schezwan Chicken Burger
+₹150.00
+Veg Sandwiches
+Veg Sandwich
+₹75.00
+Vegetarian
+Creamy Mushroom Sandwich
+₹110.00
+Vegetarian
+Paneer Sandwich
+₹120.00
+Vegetarian
+Corn Cheese Sandwich
+₹110.00
+Vegetarian
+Bombay Sandwich
+₹75.00
+Vegetarian
+Non Veg Sandwiches
+Egg Bhurji Sandwich
+₹110.00
+Chicken Special Sandwich
+₹120.00
+Snacks
+Fries [Regular]
+₹100.00
+Vegetarian
+
+Peri Peri Fries
+₹120.00
+Vegetarian
+Loaded Fries
+₹130.00
+Vegetarian
+Smiles
+₹120.00
+Vegetarian
+Chilli Potato Pops
+₹120.00
+Vegetarian
+Cheese Jalapeno Pops
+₹120.00
+Vegetarian
+Bread Omelette
+₹70.00
+Chicken Popcorn
+₹120.00
+Wraps
+Veg Wraps
+Veg Wrap
+₹110.00
+Vegetarian
+Mushroom Wrap
+₹120.00
+Vegetarian
+Paneer Wrap
+₹150.00
+Vegetarian
+Spicy Paneer Wrap
+₹160.00
+Vegetarian
+Non Veg Wraps
+Egg Wrap
+₹110.00
+Chicken Wrap
+₹150.00
+Spicy Chicken Wrap
+₹160.00
